@@ -70,3 +70,8 @@ print("Nombre: \(arrO.nombre) - Fecha: \(arrO.fecha) - Date: \(arrO.date)")
 }
 ```
 
+<p align="center">
+    <img src="img1.png" width="720px" height="450px">
+</p>
+
+
